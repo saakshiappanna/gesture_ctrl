@@ -2,10 +2,6 @@
 
 This project uses OpenCV, MediaPipe, and Pycaw to control system volume using hand gestures detected via webcam.
 
-## Environment
-
-- **Conda environment:** `cv_mediapipe`
-
 ## Dependencies
 
 - opencv-python
